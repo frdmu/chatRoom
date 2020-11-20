@@ -1,3 +1,3 @@
-# chatroom
+# Chatroom
 C language implementation
 
